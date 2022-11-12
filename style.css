@@ -1,0 +1,54 @@
+.jumbotron {
+  padding: 3rem;
+  background-image: url("backgroundlogo.jpg");
+}
+
+#home {
+  background-color: #fdcf76;
+}
+
+/* #container {
+  background: url("backgroundlogo.jpg");
+} */
+
+.container2 {
+  background-color: #ffdfba;
+}
+
+#customtable th {
+  padding-top: 25px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: #c70039;
+  color: #ffffff;
+}
+
+h2 {
+  text-align: center;
+}
+
+#customtable td,
+#customtable th {
+  border: 1px solid #fbfbfb;
+  padding: 15px;
+  text-align: center;
+}
+
+#about {
+  background-color: #ffdfba;
+  padding: 3rem;
+}
+
+.card1,
+.card2 {
+  padding: 2rem;
+}
+
+#contact {
+  background-color: #b16e4b;
+}
+
+.navbar,
+.footer {
+  background-color: #f3d1dc;
+}

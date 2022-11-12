@@ -8,7 +8,7 @@
 </head>
 <body>
    <h2>Sign In</h2>
-   <form action="prosesLogin.php" method="POST">
+   <form action="../database/prosesLogin.php" method="POST">
       <label>Email</label>
       <input type="email" name="email">
       <br>

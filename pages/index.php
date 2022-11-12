@@ -9,7 +9,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
 
     <!-- My CSS -->
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="../utils/style.css" />
     <title>My Fashion</title>
   </head>
 
@@ -45,8 +45,8 @@
     <!-- Akhir Navbar -->
 
     <!-- Home -->
-    <section class="jumbotron text-center mb-3">
-      <img src="fashion-logo.jpg" alt="Logo Fashion" width="200" class="rounded-circle img-thumbnail" />
+    <section class="jumbotron text-center">
+      <img src="../image/fashion-logo.jpg" alt="Logo Fashion" width="200" class="rounded-circle img-thumbnail" />
       <h1 class="display-4 fs-2">My Fashion</h1>
       <p class="lead">“I have always believed that fashion was not only to make women more beautiful, but also to reassure them, give them confidence”<br /></p>
       <p>~Yves Saint Laurent~</p>

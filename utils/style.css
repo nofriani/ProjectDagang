@@ -1,6 +1,7 @@
 .jumbotron {
   padding: 3rem;
-  background-image: url("backgroundlogo.jpg");
+  background-image: url("../image/backgroundlogo.jpg");
+  background-size: cover;
 }
 
 #home {

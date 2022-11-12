@@ -18,6 +18,6 @@ if (!isset($_SESSION['email'])) {
    <title>My Fashion</title>
 </head>
 <body>
-   <a href="index.html">My Fashion</a>
+   <a href="index.php">My Fashion</a>
 </body>
 </html>
